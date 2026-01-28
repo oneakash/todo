@@ -9,3 +9,5 @@ A beautiful, fully-featured Todo application built with vanilla JavaScript, HTML
 
 2. **Open in browser**  
    Simply double-click the file
+
+##### Or Use the version that deployed in netlify: https://silly-wisp-d5f5c4.netlify.app/
